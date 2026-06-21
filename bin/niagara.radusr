@@ -1,0 +1,429 @@
+// raddbg 0.9.25 user file
+
+recent_project: path: "niagara.radprj"
+recent_project: path: "C:/Users/VALIS/AppData/Roaming/raddbg/default.raddbg_project"
+window:
+{
+  size: 1920 1080
+  pos: 320 180
+  monitor: "\\\\.\\DISPLAY2"
+  panels:
+  {
+    0.292364:
+    {
+      0.694133:
+      {
+        selected
+        watch: selected
+        bitmap:
+        {
+          expression: ""
+          zoom: 1.000000f
+          x: 0.000000f
+          y: 0.000000f
+        }
+      }
+      0.305866:
+      {
+        watch:
+        {
+          selected
+          expression: "query:call_stack"
+          query:
+          {
+            cmd: search
+            input: ginfo
+          }
+        }
+        text:
+        {
+          expression: "query:output"
+          query: input: ""
+          cursor_line: 6
+          cursor_column: 1
+          mark_line: 6
+          mark_column: 1
+          scroll_to_bottom_on_change: 1
+        }
+        watch: expression: "query:breakpoints"
+      }
+    }
+    0.707636:
+    {
+      text:
+      {
+        expression: "file:\"X:/External/vkguide/chapter-3/main.cpp\".data"
+        project: "x:/External/vkguide/debug/vkguide.radprj"
+        query: input: ""
+        cursor_line: 7
+        cursor_column: 17
+        mark_line: 7
+        mark_column: 17
+      }
+      text:
+      {
+        expression: "file:\"X:/hhiro/code/win32_hhiro.cpp\".data"
+        project: "C:/Users/VALIS/AppData/Roaming/raddbg/default.raddbg_project"
+        query: input: ""
+        cursor_line: 261
+        cursor_column: 1
+        mark_line: 261
+        mark_column: 1
+      }
+      text:
+      {
+        expression: "file:\"X:/hhiro/code/win32_hhiro.h\".data"
+        project: "x:\\hhiro\\/debug/hhiro.radprj"
+        query: input: ""
+        cursor_line: 5
+        cursor_column: 19
+        mark_line: 5
+        mark_column: 19
+      }
+      text:
+      {
+        expression: "file:\"X:/hhiro/code/hhiro.cpp\".data"
+        project: "x:\\hhiro\\/debug/hhiro.radprj"
+        query: input: ""
+        cursor_line: 27
+        cursor_column: 1
+        mark_line: 27
+        mark_column: 1
+      }
+      text:
+      {
+        expression: "file:\"X:/hhiro/code/hhiro.h\".data"
+        project: "x:\\hhiro\\/debug/hhiro.radprj"
+        query: input: ""
+        cursor_line: 1
+        cursor_column: 1
+        mark_line: 1
+        mark_column: 1
+      }
+      text:
+      {
+        expression: "file:\"X:/hhiro/code/raytracer.cpp\".data"
+        project: "x:\\hhiro\\/debug/hhiro.radprj"
+        query: input: ""
+        cursor_line: 102
+        cursor_column: 1
+        mark_line: 102
+        mark_column: 1
+      }
+      text:
+      {
+        expression: "file:\"X:/hhiro/code/win32_hhiro.cpp\".data"
+        project: "x:\\hhiro\\/debug/hhiro.radprj"
+        query:
+        {
+          input: ""
+          cmd: search
+        }
+        cursor_line: 703
+        cursor_column: 1
+        mark_line: 703
+        mark_column: 1
+      }
+      text:
+      {
+        expression: "file:\"X:/External/vkguide/chapter-3/vk_engine.cpp\".data"
+        project: "x:/External/vkguide/debug/vkguide.radprj"
+        query: input: ""
+        cursor_line: 588
+        cursor_column: 1
+        mark_line: 588
+        mark_column: 1
+      }
+      text:
+      {
+        expression: "file:\"X:/External/vkguide/chapter-3/vk_engine.h\".data"
+        project: "x:/External/vkguide/debug/vkguide.radprj"
+        query: input: ""
+        cursor_line: 1
+        cursor_column: 1
+        mark_line: 1
+        mark_column: 1
+      }
+      text:
+      {
+        expression: "file:\"X:/External/vkguide/chapter-3/vk_loader.cpp\".data"
+        project: "x:/External/vkguide/debug/vkguide.radprj"
+        query: input: ""
+        cursor_line: 1
+        cursor_column: 1
+        mark_line: 1
+        mark_column: 1
+      }
+      text:
+      {
+        expression: "file:\"X:/External/vkguide/chapter-3/vk_loader.h\".data"
+        project: "x:/External/vkguide/debug/vkguide.radprj"
+        query: input: ""
+        cursor_line: 25
+        cursor_column: 1
+        mark_line: 25
+        mark_column: 1
+      }
+      disasm: query: input: ""
+      text:
+      {
+        expression: "file:\"X:/niagara/src/common.h\".data"
+        project: "x:/niagara/bin/niagara.radprj"
+        query: input: ""
+        cursor_line: 1
+        cursor_column: 1
+        mark_line: 1
+        mark_column: 1
+      }
+      text:
+      {
+        expression: "file:\"X:/niagara/src/config.h\".data"
+        project: "x:/niagara/bin/niagara.radprj"
+        query: input: ""
+        cursor_line: 1
+        cursor_column: 1
+        mark_line: 1
+        mark_column: 1
+      }
+      text:
+      {
+        selected
+        expression: "file:\"X:/niagara/src/device.cpp\".data"
+        project: "x:/niagara/bin/niagara.radprj"
+        query: input: ""
+        cursor_line: 1
+        cursor_column: 1
+        mark_line: 1
+        mark_column: 1
+      }
+      text:
+      {
+        expression: "file:\"X:/niagara/src/device.h\".data"
+        project: "x:/niagara/bin/niagara.radprj"
+        query: input: ""
+        cursor_line: 1
+        cursor_column: 1
+        mark_line: 1
+        mark_column: 1
+      }
+      pending:
+      {
+        expression: "file:\"X:/niagara/src/extern.cpp\".data"
+        project: "x:/niagara/bin/niagara.radprj"
+      }
+      pending:
+      {
+        expression: "file:\"X:/niagara/src/fileutils.cpp\".data"
+        project: "x:/niagara/bin/niagara.radprj"
+      }
+      pending:
+      {
+        expression: "file:\"X:/niagara/src/fileutils.h\".data"
+        project: "x:/niagara/bin/niagara.radprj"
+      }
+      pending:
+      {
+        expression: "file:\"X:/niagara/src/math.h\".data"
+        project: "x:/niagara/bin/niagara.radprj"
+      }
+      pending:
+      {
+        expression: "file:\"X:/niagara/src/niagara.cpp\".data"
+        project: "x:/niagara/bin/niagara.radprj"
+      }
+      pending:
+      {
+        expression: "file:\"X:/niagara/src/resources.cpp\".data"
+        project: "x:/niagara/bin/niagara.radprj"
+      }
+      pending:
+      {
+        expression: "file:\"X:/niagara/src/resources.h\".data"
+        project: "x:/niagara/bin/niagara.radprj"
+      }
+      pending:
+      {
+        expression: "file:\"X:/niagara/src/scene.cpp\".data"
+        project: "x:/niagara/bin/niagara.radprj"
+      }
+      pending:
+      {
+        expression: "file:\"X:/niagara/src/scene.h\".data"
+        project: "x:/niagara/bin/niagara.radprj"
+      }
+      pending:
+      {
+        expression: "file:\"X:/niagara/src/scenecache.cpp\".data"
+        project: "x:/niagara/bin/niagara.radprj"
+      }
+      pending:
+      {
+        expression: "file:\"X:/niagara/src/scenert.cpp\".data"
+        project: "x:/niagara/bin/niagara.radprj"
+      }
+      pending:
+      {
+        expression: "file:\"X:/niagara/src/scenert.h\".data"
+        project: "x:/niagara/bin/niagara.radprj"
+      }
+      pending:
+      {
+        expression: "file:\"X:/niagara/src/shaders.cpp\".data"
+        project: "x:/niagara/bin/niagara.radprj"
+      }
+      pending:
+      {
+        expression: "file:\"X:/niagara/src/shaders.h\".data"
+        project: "x:/niagara/bin/niagara.radprj"
+      }
+      pending:
+      {
+        expression: "file:\"X:/niagara/src/swapchain.cpp\".data"
+        project: "x:/niagara/bin/niagara.radprj"
+      }
+      pending:
+      {
+        expression: "file:\"X:/niagara/src/swapchain.h\".data"
+        project: "x:/niagara/bin/niagara.radprj"
+      }
+      pending:
+      {
+        expression: "file:\"X:/niagara/src/textures.cpp\".data"
+        project: "x:/niagara/bin/niagara.radprj"
+      }
+      text:
+      {
+        expression: "file:\"X:/niagara/src/textures.h\".data"
+        project: "x:/niagara/bin/niagara.radprj"
+        query: input: ""
+        cursor_line: 1
+        cursor_column: 1
+        mark_line: 1
+        mark_column: 1
+      }
+    }
+  }
+  split_x
+  font_size: 12
+  maximized
+}
+keybindings:
+{
+  { kill_all f5 shift }
+  { step_into_inst f11 alt }
+  { step_over_inst f10 alt }
+  { step_out f11 shift }
+  { halt x ctrl shift }
+  { halt pause }
+  { run f5 }
+  { restart f5 ctrl shift }
+  { step_into f11 }
+  { step_over f10 }
+  { run_to_line f10 ctrl }
+  { set_next_statement f10 ctrl shift }
+  { inc_window_font_size equal alt }
+  { dec_window_font_size minus alt }
+  { window n ctrl shift }
+  { toggle_fullscreen return ctrl }
+  { new_panel_right p ctrl }
+  { new_panel_down minus ctrl }
+  { rotate_panel_columns 2 ctrl }
+  { next_panel comma ctrl }
+  { prev_panel comma ctrl shift }
+  { focus_panel_right right ctrl alt }
+  { focus_panel_left left ctrl alt }
+  { focus_panel_up up ctrl alt }
+  { focus_panel_down down ctrl alt }
+  { undo z ctrl }
+  { redo y ctrl }
+  { go_back left alt }
+  { go_forward right alt }
+  { close_panel p ctrl shift alt }
+  { next_tab page_down ctrl }
+  { prev_tab page_up ctrl }
+  { next_tab tab ctrl }
+  { prev_tab tab ctrl shift }
+  { move_tab_right page_down ctrl shift }
+  { move_tab_left page_up ctrl shift }
+  { close_tab w ctrl }
+  { tab_bar_top up ctrl shift alt }
+  { tab_bar_bottom down ctrl shift alt }
+  { open_tab t ctrl }
+  { open o ctrl }
+  { switch i ctrl }
+  { switch_to_partner_file o alt }
+  { open_user n ctrl shift alt }
+  { open_project n ctrl alt }
+  { open_user o ctrl shift alt }
+  { open_project o ctrl alt }
+  { save_user s ctrl shift alt }
+  { save_project s ctrl shift }
+  { edit f2 }
+  { accept return }
+  { accept space }
+  { cancel esc }
+  { move_left left }
+  { move_right right }
+  { move_up up }
+  { move_down down }
+  { move_left_select left shift }
+  { move_right_select right shift }
+  { move_up_select up shift }
+  { move_down_select down shift }
+  { move_left_chunk left ctrl }
+  { move_right_chunk right ctrl }
+  { move_up_chunk up ctrl }
+  { move_down_chunk down ctrl }
+  { move_up_page page_up }
+  { move_down_page page_down }
+  { move_up_whole home ctrl }
+  { move_down_whole end ctrl }
+  { move_left_chunk_select left ctrl shift }
+  { move_right_chunk_select right ctrl shift }
+  { move_up_chunk_select up ctrl shift }
+  { move_down_chunk_select down ctrl shift }
+  { move_up_page_select page_up shift }
+  { move_down_page_select page_down shift }
+  { move_up_whole_select home ctrl shift }
+  { move_down_whole_select end ctrl shift }
+  { move_up_reorder up alt }
+  { move_down_reorder down alt }
+  { move_home home }
+  { move_end end }
+  { move_home_select home shift }
+  { move_end_select end shift }
+  { select_all a ctrl }
+  { delete_single delete }
+  { delete_chunk delete ctrl }
+  { backspace_single backspace }
+  { backspace_chunk backspace ctrl }
+  { copy c ctrl }
+  { copy insert ctrl }
+  { cut x ctrl }
+  { paste v ctrl }
+  { paste insert shift }
+  { insert_text null }
+  { move_next tab }
+  { move_prev tab shift }
+  { goto_line g ctrl }
+  { goto_address g alt }
+  { search f ctrl }
+  { search_backwards r ctrl }
+  { find_next f3 }
+  { find_prev f3 ctrl }
+  { find_selected_thread f4 }
+  { goto_name j ctrl }
+  { goto_name_at_cursor f12 }
+  { toggle_watch_expr_at_cursor w alt }
+  { toggle_watch_expr_at_mouse d ctrl }
+  { toggle_watch_pin f9 ctrl }
+  { toggle_breakpoint f9 }
+  { add_address_breakpoint f9 shift }
+  { add_function_breakpoint f9 ctrl shift }
+  { attach f6 shift }
+  { open_palette f1 }
+  { open_palette p ctrl shift }
+  { log_marker m ctrl shift alt }
+  { toggle_dev_menu d ctrl shift alt }
+}
+current_path: "x:/niagara/bin"

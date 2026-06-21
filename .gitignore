@@ -7,3 +7,9 @@ build.ninja
 .ninja_*
 compile_commands.json
 *.cmake
+
+/build
+/data
+bin/niagara.exe
+bin/niagara.pdb
+bin/spirv

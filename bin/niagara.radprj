@@ -1,0 +1,29 @@
+// raddbg 0.9.25 project file
+
+recent_file: path: "../src/textures.h"
+recent_file: path: "../src/textures.cpp"
+recent_file: path: "../src/swapchain.h"
+recent_file: path: "../src/swapchain.cpp"
+recent_file: path: "../src/shaders.h"
+recent_file: path: "../src/shaders.cpp"
+recent_file: path: "../src/scenert.h"
+recent_file: path: "../src/scenert.cpp"
+recent_file: path: "../src/scenecache.cpp"
+recent_file: path: "../src/scene.h"
+recent_file: path: "../src/scene.cpp"
+recent_file: path: "../src/resources.h"
+recent_file: path: "../src/resources.cpp"
+recent_file: path: "../src/niagara.cpp"
+recent_file: path: "../src/math.h"
+recent_file: path: "../src/fileutils.h"
+recent_file: path: "../src/fileutils.cpp"
+recent_file: path: "../src/extern.cpp"
+recent_file: path: "../src/device.h"
+recent_file: path: "../src/device.cpp"
+recent_file: path: "../src/config.h"
+recent_file: path: "../src/common.h"
+debug_info:
+{
+  path: "X:/niagara/build/Debug/niagara.pdb"
+  timestamp: 66218028343191
+}
